@@ -22,9 +22,15 @@ Name ⇩         | Symbol  | Programming Language
 
 ## Smart contract languages
 
-- [**Plutus**](https://cardanodocs.com/technical/plutus/introduction): A strictly typed pure functional programming language used for defining smart contracts in [Cardano](https://www.cardanohub.org/en/home). The syntax is fairly Haskell-like, but unlike Haskell, the language is eagerly evaluated.
-- [**Liquidity**](http://www.liquidity-lang.org): A high-level language to program Smart Contracts for [Tezos](https://www.tezos.com). It is a fully typed functional language, it uses the syntax of OCaml, and strictly complies with Michelson security restrictions.
-- [**Simplicity**](https://blockstream.com/simplicity.pdf): A typed, combinator-based, functional language without loops and recursion, designed to be used for crypto-currencies and blockchain applications.
+Name ⇩            | Description
+------------------|-------------------------------
+[Liquidity][100]  | A high-level language to program Smart Contracts for [Tezos](https://www.tezos.com). It is a fully typed functional language, it uses the syntax of OCaml, and strictly complies with Michelson security restrictions.
+[Plutus][101]     | A strictly typed pure functional programming language used for defining smart contracts in [Cardano](https://www.cardanohub.org/en/home). The syntax is fairly Haskell-like, but unlike Haskell, the language is eagerly evaluated.
+[Simplicity][102] | A typed, combinator-based, functional language without loops and recursion, designed to be used for crypto-currencies and blockchain applications.
+
+[100]: http://www.liquidity-lang.org
+[101]: https://cardanodocs.com/technical/plutus/introduction
+[102]: https://blockstream.com/simplicity.pdf
 
 ### Coffee $
 
