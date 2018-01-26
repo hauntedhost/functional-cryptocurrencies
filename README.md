@@ -1,4 +1,6 @@
-# Awesome functional cryptocurrency projects [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome functional cryptocurrency projects
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) projects using [functional programming](https://en.wikipedia.org/wiki/Functional_programming) languages and/or principles.
 
