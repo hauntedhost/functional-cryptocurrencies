@@ -25,6 +25,7 @@ Name ⇩         | Symbol  | Programming Language
 Name ⇩            | Description
 ------------------|-------------------------------
 [Liquidity][100]  | A high-level language to program Smart Contracts for [Tezos](https://www.tezos.com). It is a fully typed functional language, it uses the syntax of OCaml, and strictly complies with Michelson security restrictions.
+[NEO Smart Contract][101] | The NEO smart contract can be used directly by almost any high-level programming language. The first supported languages are C#, VB.Net, **F#**, Java, and Kotlin.
 [Plutus][101]     | A strictly typed pure functional programming language used for defining smart contracts in [Cardano](https://www.cardanohub.org/en/home). The syntax is fairly Haskell-like, but unlike Haskell, the language is eagerly evaluated.
 [Simplicity][102] | A typed, combinator-based, functional language without loops and recursion, designed to be used for crypto-currencies and blockchain applications.
 
