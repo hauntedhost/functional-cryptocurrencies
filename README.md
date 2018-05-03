@@ -24,12 +24,15 @@ Name ⇩            | Description
 ------------------|-------------------------------
 [Liquidity][100]  | A high-level language to program Smart Contracts for [Tezos](https://www.tezos.com). It is a fully typed functional language, it uses the syntax of OCaml, and strictly complies with Michelson security restrictions.
 [NEO Smart Contract][101] | The NEO smart contract can be used directly by almost any high-level programming language. Among the first supported languages is F#.
-[Plutus][101]     | A strictly typed pure functional programming language used for defining smart contracts in [Cardano](https://www.cardanohub.org/en/home). The syntax is fairly Haskell-like, but unlike Haskell, the language is eagerly evaluated.
-[Simplicity][102] | A typed, combinator-based, functional language without loops and recursion, designed to be used for crypto-currencies and blockchain applications.
+[Pact][102]       | Pact is immutable, deterministic, and Turing-incomplete. Based on LISP, Pact strikes a balance between low-level directly executable expressions and high-level declarative code.
+[Plutus][103]     | A strictly typed pure functional programming language used for defining smart contracts in [Cardano](https://www.cardanohub.org/en/home). The syntax is fairly Haskell-like, but unlike Haskell, the language is eagerly evaluated.
+[Simplicity][104] | A typed, combinator-based, functional language without loops and recursion, designed to be used for crypto-currencies and blockchain applications.
 
 [100]: http://www.liquidity-lang.org
-[101]: https://cardanodocs.com/technical/plutus/introduction
-[102]: https://blockstream.com/simplicity.pdf
+[101]: http://docs.neo.org/en-us/sc/introduction.html
+[102]: http://kadena.io/pact
+[103]: https://cardanodocs.com/technical/plutus/introduction
+[104]: https://blockstream.com/simplicity.pdf
 
 ### Coffee $
 
