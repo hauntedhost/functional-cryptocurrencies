@@ -1,6 +1,6 @@
 # Functional cryptocurrency projects
 
-A list of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) projects using [functional programming](https://en.wikipedia.org/wiki/Functional_programming) languages and/or principles.
+A list of [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) and [smart contract](https://en.wikipedia.org/wiki/Smart_contract) projects using [functional programming](https://en.wikipedia.org/wiki/Functional_programming) languages and/or principles.
 
 **Pull requests welcome!**
 
